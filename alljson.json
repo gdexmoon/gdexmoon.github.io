@@ -1,0 +1,33 @@
+{
+  "name": "GDEX Token List",
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 0
+  },
+  "keywords": [
+    "gdex",
+    "tokens",
+    "trusted"
+  ],
+  "logoURI": "https://gemini.com/static/images/loader.png",
+  "timestamp": "2021-05-24T16:00:00+0000",
+  "tokens": [
+    {
+      "name": "GDX",
+      "chainId": 1,
+      "symbol": "GDX",
+      "decimals": 18,
+      "address": "0x3ddf55c9094d4eac93bcb08c26a10e6d996f86d0",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/1inch.svg"
+    },
+    {
+      "name": "GDEX",
+      "chainId": 1,
+      "symbol": "GDEX",
+      "decimals": 18,
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+    }
+  ]
+}
